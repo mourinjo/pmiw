@@ -1,3 +1,7 @@
+
+//Marcial Mouriño
+// https://youtu.be/9hve7oock60
+// comision 5
 let estado = 0;
 let imagenes = [];
 let botonD1;
